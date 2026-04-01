@@ -21,11 +21,11 @@ export default function FinalCta() {
             <ArrowRight className="w-5 h-5" />
           </a>
           <a
-            href="tel:8886263214"
+            href="tel:8889852078"
             className="inline-flex items-center gap-2 text-white/80 hover:text-white font-semibold text-base sm:text-lg transition-colors"
           >
             <Phone className="w-5 h-5" />
-            or call (888) 626-3214
+            or call (888) 985-2078
           </a>
         </div>
       </div>

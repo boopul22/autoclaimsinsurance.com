@@ -26,11 +26,11 @@ export default function CtaBanner() {
           </div>
 
           <a
-            href="tel:8886263214"
+            href="tel:8889852078"
             className="flex items-center gap-2 font-bold text-lg sm:text-xl hover:text-blue-100 transition-colors"
           >
             <Phone className="w-5 h-5 sm:w-6 sm:h-6" />
-            (888) 626-3214
+            (888) 985-2078
           </a>
 
           <a

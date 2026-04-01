@@ -38,11 +38,11 @@ export default function Hero() {
               <ArrowRight className="w-5 h-5" />
             </a>
             <a
-              href="tel:8886263214"
+              href="tel:8889852078"
               className="inline-flex items-center justify-center gap-2 border-2 border-white/20 hover:border-white/40 hover:bg-white/10 text-white font-semibold px-6 sm:px-8 py-3.5 sm:py-4 rounded-full text-base sm:text-lg transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (888) 626-3214
+              (888) 985-2078
             </a>
           </div>
 

@@ -49,17 +49,17 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="tel:8886263214"
+              href="tel:8889852078"
               className="inline-flex items-center gap-2 bg-accent hover:bg-accent-dark text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-colors"
             >
               <Phone className="w-4 h-4" />
-              (888) 626-3214
+              (888) 985-2078
             </a>
           </div>
 
           <div className="flex items-center gap-2 lg:hidden flex-shrink-0">
             <a
-              href="tel:8886263214"
+              href="tel:8889852078"
               className="inline-flex items-center gap-1 bg-accent hover:bg-accent-dark text-white font-semibold px-3 py-1.5 rounded-full text-xs transition-colors"
             >
               <Phone className="w-3.5 h-3.5" />
@@ -90,11 +90,11 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="tel:8886263214"
+              href="tel:8889852078"
               className="flex items-center gap-2 text-accent font-semibold py-2 text-sm"
             >
               <Phone className="w-4 h-4" />
-              (888) 626-3214
+              (888) 985-2078
             </a>
           </div>
         </div>

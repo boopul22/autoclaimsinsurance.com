@@ -115,8 +115,8 @@ export default function LeadForm() {
               <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-amber-300" />
               <p className="text-white font-bold text-sm sm:text-base">Prefer to talk? Call us now</p>
             </div>
-            <a href="tel:8886263214" className="text-xl sm:text-2xl font-serif font-bold text-white hover:text-amber-300 transition-colors">
-              (888) 626-3214
+            <a href="tel:8889852078" className="text-xl sm:text-2xl font-serif font-bold text-white hover:text-amber-300 transition-colors">
+              (888) 985-2078
             </a>
             <p className="text-blue-200/60 text-xs sm:text-sm mt-1">Available 24/7 — free consultation</p>
           </div>
