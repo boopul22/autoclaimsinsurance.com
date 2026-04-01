@@ -46,7 +46,7 @@ export default function Terms() {
 
           <section id="introduction">
             <h2 className="text-xl font-bold text-brand-800 mb-3">1. Introduction</h2>
-            <p>Welcome to Insuranceautoclaim.com (the "Website"), operated by Evolve Web Marketing Ltd ("Company", "we", "us", or "our"), a company registered in England & Wales under Company No. 15814738. These Terms of Use ("Terms") form a binding agreement between you and the Company governing your access to and use of this Website, including any content, features, and services offered herein.</p>
+            <p>Welcome to Insuranceautoclaim.com (the "Website"), operated by Coresight Creative Limited ("Company", "we", "us", or "our"), a company registered in England & Wales under Company No. 16828110. These Terms of Use ("Terms") form a binding agreement between you and the Company governing your access to and use of this Website, including any content, features, and services offered herein.</p>
             <p className="mt-3">By accessing or utilising this Website, you confirm that you have read, understood, and agree to be bound by these Terms. If you do not accept these Terms, you must discontinue use of the Website immediately.</p>
           </section>
 
@@ -94,7 +94,7 @@ export default function Terms() {
 
           <section id="ip">
             <h2 className="text-xl font-bold text-brand-800 mb-3">7. Intellectual Property</h2>
-            <p>All content on this Website — including but not limited to text, graphics, logos, images, audio, video, software, and design elements — is the property of Evolve Web Marketing Ltd or its licensors and is protected by applicable intellectual property laws. You may not reproduce, distribute, modify, or create derivative works from any part of this Website without our express written authorisation.</p>
+            <p>All content on this Website — including but not limited to text, graphics, logos, images, audio, video, software, and design elements — is the property of Coresight Creative Limited or its licensors and is protected by applicable intellectual property laws. You may not reproduce, distribute, modify, or create derivative works from any part of this Website without our express written authorisation.</p>
           </section>
 
           <section id="third-party">
@@ -104,7 +104,7 @@ export default function Terms() {
 
           <section id="indemnification">
             <h2 className="text-xl font-bold text-brand-800 mb-3">9. Indemnification</h2>
-            <p>You agree to indemnify, defend, and hold harmless Evolve Web Marketing Ltd, its directors, officers, employees, agents, and affiliates from and against all claims, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising out of or related to: (a) your use of this Website; (b) your violation of these Terms; or (c) your violation of any third-party right, including any intellectual property or privacy right.</p>
+            <p>You agree to indemnify, defend, and hold harmless Coresight Creative Limited, its directors, officers, employees, agents, and affiliates from and against all claims, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising out of or related to: (a) your use of this Website; (b) your violation of these Terms; or (c) your violation of any third-party right, including any intellectual property or privacy right.</p>
           </section>
 
           <section id="disclaimers">
@@ -152,8 +152,8 @@ export default function Terms() {
             <p>For any questions or concerns regarding these Terms, please contact us:</p>
             <ul className="mt-3 space-y-1">
               <li><strong>Email:</strong> <a href="mailto:help@insuranceautoclaim.com" className="text-brand-600 underline">help@insuranceautoclaim.com</a></li>
-              <li><strong>Address:</strong> Evolve Web Marketing Ltd, C/O Nra Accountancy, Arrow Mill, Queensway, Rochdale, Lancashire, England, OL11 2YW</li>
-              <li><strong>Company No.:</strong> 15814738 (England & Wales)</li>
+              <li><strong>Address:</strong> Coresight Creative Limited, 128 City Road, London, United Kingdom, EC1V 2NX</li>
+              <li><strong>Company No.:</strong> 16828110 (England & Wales)</li>
             </ul>
           </section>
 

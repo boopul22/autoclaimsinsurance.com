@@ -38,7 +38,7 @@ export default function Privacy() {
 
           <section id="scope">
             <h2 className="text-xl font-bold text-brand-800 mb-3">1. Scope & Applicability</h2>
-            <p>This Privacy Policy describes how Insuranceautoclaim.com, operated by Evolve Web Marketing Ltd ("Company", "we", "us"), collects, utilises, shares, and safeguards your personal information when you interact with our Website, claim evaluation tools, telephone lines, and marketing partner services.</p>
+            <p>This Privacy Policy describes how Insuranceautoclaim.com, operated by Coresight Creative Limited ("Company", "we", "us"), collects, utilises, shares, and safeguards your personal information when you interact with our Website, claim evaluation tools, telephone lines, and marketing partner services.</p>
             <p className="mt-3">By using our Website or providing your personal details, you acknowledge and consent to the practices outlined in this Privacy Policy. If you disagree with any aspect of this policy, please refrain from using our services.</p>
           </section>
 
@@ -102,7 +102,7 @@ export default function Privacy() {
             <p>For questions about this Privacy Policy or to exercise your data rights, please contact:</p>
             <ul className="mt-3 space-y-1">
               <li><strong>Email:</strong> <a href="mailto:help@insuranceautoclaim.com" className="text-brand-600 underline">help@insuranceautoclaim.com</a></li>
-              <li><strong>Address:</strong> Evolve Web Marketing Ltd, C/O Nra Accountancy, Arrow Mill, Queensway, Rochdale, Lancashire, England, OL11 2YW</li>
+              <li><strong>Address:</strong> Coresight Creative Limited, 128 City Road, London, United Kingdom, EC1V 2NX</li>
             </ul>
           </section>
 

@@ -63,11 +63,8 @@ export default function Partners() {
           {/* Operator info */}
           <div className="bg-gray-50 rounded-lg p-5 mb-8">
             <h3 className="font-bold text-brand-800 mb-2">Platform Operator</h3>
-            <p className="text-sm text-gray-700 mb-1">
-              This advertising platform is operated by <strong>Evolve Web Marketing Ltd</strong>, Company No. 15814738, Registered in England & Wales.
-            </p>
             <p className="text-sm text-gray-700">
-              In association with <strong>Coresight Creative Limited</strong>, Company No. 16828110, Registered Office: 128 City Road, London, United Kingdom, EC1V 2NX.
+              This advertising platform is operated by <strong>Coresight Creative Limited</strong>, Company No. 16828110, Registered in England &amp; Wales. Registered Office: 128 City Road, London, United Kingdom, EC1V 2NX.
             </p>
           </div>
 

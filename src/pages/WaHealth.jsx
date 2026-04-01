@@ -31,7 +31,7 @@ export default function WaHealth() {
 
         <div className="bg-white rounded-xl border border-gray-200 p-6 lg:p-10 space-y-10 text-gray-700 leading-relaxed">
 
-          <p>This policy explains how Insuranceautoclaim.com, operated by Evolve Web Marketing Ltd ("Company", "we", "us"), collects, uses, and shares consumer health data from Washington state residents as defined by the My Health My Data Act (MHMDA).</p>
+          <p>This policy explains how Insuranceautoclaim.com, operated by Coresight Creative Limited ("Company", "we", "us"), collects, uses, and shares consumer health data from Washington state residents as defined by the My Health My Data Act (MHMDA).</p>
 
           <section id="categories">
             <h2 className="text-xl font-bold text-brand-800 mb-3">1. Categories of Health Data Collected</h2>
