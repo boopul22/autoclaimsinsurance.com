@@ -85,7 +85,7 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-6 sm:pt-8 mb-4 sm:mb-6">
           <p className="text-xs sm:text-sm text-gray-400 mb-3 leading-relaxed">
             <span className="text-white font-semibold">About Us:</span>{' '}
-            Insuranceautoclaim.com is operated by Company, Company No. 16828110,
+            Insuranceautoclaim.com is operated by Evolve Web Marketing Ltd, Company No. 16828110,
             registered in England & Wales. Registered Office: 128 City Road, London,
             United Kingdom, EC1V 2NX.
           </p>
@@ -94,7 +94,7 @@ export default function Footer() {
         <div className="bg-white/5 rounded-lg sm:rounded-xl p-4 sm:p-5 mb-6 sm:mb-8">
           <p className="text-[10px] sm:text-xs text-gray-400 leading-relaxed">
             <span className="text-amber-400 font-semibold">ADVERTISEMENT:</span> This website
-            is a paid advertisement operated by Company (Company No.
+            is a paid advertisement operated by Evolve Web Marketing LTD (Company No.
             16828110). Insuranceautoclaim.com is not a law firm, a lawyer referral service, or
             an insurance company. We do not provide legal advice, medical advice, or insurance
             adjusting services. You have the right to request free information about an
